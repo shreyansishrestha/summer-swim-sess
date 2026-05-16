@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/summer-swim-sess/static/css/main.05ec605c.css",
+    "main.js": "/summer-swim-sess/static/js/main.cbd238ec.js",
+    "index.html": "/summer-swim-sess/index.html",
+    "main.05ec605c.css.map": "/summer-swim-sess/static/css/main.05ec605c.css.map",
+    "main.cbd238ec.js.map": "/summer-swim-sess/static/js/main.cbd238ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05ec605c.css",
+    "static/js/main.cbd238ec.js"
+  ]
+}
